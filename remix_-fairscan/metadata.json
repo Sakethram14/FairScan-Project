@@ -1,0 +1,6 @@
+{
+  "name": "Remix: FairScan",
+  "description": "AI-Powered Bias Auditing Infrastructure for the Indian Context. Audits ML models for discriminatory bias using proxy signals like caste, geography, and language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
