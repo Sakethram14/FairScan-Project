@@ -1,10 +1,18 @@
-{
-  "projectId": "remixed-project-id",
-  "appId": "remixed-app-id",
-  "apiKey": "remixed-api-key",
-  "authDomain": "remixed-auth-domain",
-  "firestoreDatabaseId": "remixed-firestore-database-id",
-  "storageBucket": "remixed-storage-bucket",
-  "messagingSenderId": "remixed-messaging-sender-id",
-  "measurementId": "remixed-measurement-id"
-}
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyD6JSp7tq27Orze4Uh-kjxrT_hZuFmnTUQ",
+  authDomain: "fairscan-app-e7e2a.firebaseapp.com",
+  databaseURL: "https://fairscan-app-e7e2a-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "fairscan-app-e7e2a",
+  storageBucket: "fairscan-app-e7e2a.firebasestorage.app",
+  messagingSenderId: "118552184855",
+  appId: "1:118552184855:web:76007c4971428a0a797452"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
