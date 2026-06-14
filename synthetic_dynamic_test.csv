@@ -1,0 +1,101 @@
+applicant_uuid,technical_assessment_score,years_of_experience,primary_spoken_dialect,domicile_postal_zone,ancestor_highest_qualification,packet_drop_ratio,ml_prediction_confidence,final_decision
+APP-1001,65,2,Marathi,Zone-D-Remote,Uneducated,0.132,0.490,0
+APP-1002,69,3,Hindi,Zone-D-Remote,Primary School,0.162,0.564,1
+APP-1003,56,6,English,Zone-A-Metro,Postgrad,0.038,0.636,1
+APP-1004,67,6,English,Zone-A-Metro,Postgrad,0.037,0.702,1
+APP-1005,94,6,English,Zone-A-Metro,Undergrad,0.001,0.864,1
+APP-1006,55,2,Bengali,Zone-C-SemiUrban,Uneducated,0.129,0.430,0
+APP-1007,66,1,Marathi,Zone-C-SemiUrban,Primary School,0.168,0.446,0
+APP-1008,90,5,English,Zone-A-Metro,Undergrad,0.009,0.790,1
+APP-1009,59,0,Tamil,Zone-C-SemiUrban,Uneducated,0.109,0.354,0
+APP-1010,63,1,Telugu,Zone-C-SemiUrban,Uneducated,0.271,0.428,0
+APP-1011,91,3,English,Zone-B-Urban,Undergrad,0.020,0.696,1
+APP-1012,67,4,Hindi,Zone-D-Remote,Uneducated,0.271,0.602,1
+APP-1013,68,3,Hindi,Zone-D-Remote,Primary School,0.146,0.558,1
+APP-1014,70,1,Tamil,Zone-D-Remote,Primary School,0.274,0.470,0
+APP-1015,68,4,English,Zone-B-Urban,Postgrad,0.010,0.608,1
+APP-1016,72,1,Tamil,Zone-C-SemiUrban,Primary School,0.265,0.482,0
+APP-1017,63,6,English,Zone-B-Urban,Undergrad,0.046,0.678,1
+APP-1018,61,4,English,Zone-B-Urban,Undergrad,0.034,0.566,1
+APP-1019,45,3,Bengali,Zone-D-Remote,Uneducated,0.168,0.420,0
+APP-1020,88,2,English,Zone-B-Urban,Undergrad,0.041,0.628,1
+APP-1021,61,2,Bengali,Zone-C-SemiUrban,Primary School,0.183,0.466,0
+APP-1022,84,2,English,Zone-A-Metro,Postgrad,0.032,0.604,1
+APP-1023,77,5,English,Zone-A-Metro,Postgrad,0.049,0.712,1
+APP-1024,62,4,English,Zone-C-SemiUrban,Primary School,0.159,0.572,1
+APP-1025,55,0,Tamil,Zone-C-SemiUrban,Uneducated,0.226,0.330,0
+APP-1026,56,2,Telugu,Zone-D-Remote,Primary School,0.127,0.436,0
+APP-1027,39,3,Marathi,Zone-D-Remote,Uneducated,0.112,0.384,0
+APP-1028,57,3,English,Zone-B-Urban,Undergrad,0.024,0.492,0
+APP-1029,94,3,English,Zone-B-Urban,Postgrad,0.036,0.714,1
+APP-1030,40,4,Marathi,Zone-D-Remote,Primary School,0.267,0.440,0
+APP-1031,87,2,English,Zone-B-Urban,Undergrad,0.018,0.622,1
+APP-1032,38,1,Marathi,Zone-D-Remote,Uneducated,0.133,0.278,0
+APP-1033,59,1,Tamil,Zone-D-Remote,Primary School,0.277,0.404,0
+APP-1034,68,1,Hindi,Zone-C-SemiUrban,Uneducated,0.198,0.458,0
+APP-1035,44,4,Tamil,Zone-D-Remote,Uneducated,0.107,0.464,0
+APP-1036,74,2,English,Zone-B-Urban,Undergrad,0.021,0.544,0
+APP-1037,73,4,Marathi,Zone-D-Remote,Primary School,0.210,0.638,1
+APP-1038,71,4,English,Zone-D-Remote,Primary School,0.143,0.626,1
+APP-1039,43,2,Bengali,Zone-C-SemiUrban,Primary School,0.207,0.358,0
+APP-1040,74,4,Marathi,Zone-C-SemiUrban,Uneducated,0.167,0.644,1
+APP-1041,63,4,Hindi,Zone-C-SemiUrban,Primary School,0.295,0.578,1
+APP-1042,36,4,Marathi,Zone-C-SemiUrban,Uneducated,0.124,0.416,0
+APP-1043,56,3,English,Zone-D-Remote,Uneducated,0.190,0.486,0
+APP-1044,66,4,English,Zone-B-Urban,Undergrad,0.041,0.596,1
+APP-1045,90,4,English,Zone-B-Urban,Undergrad,0.002,0.740,1
+APP-1046,66,1,Marathi,Zone-D-Remote,Uneducated,0.136,0.446,0
+APP-1047,77,5,English,Zone-A-Metro,Postgrad,0.022,0.712,1
+APP-1048,38,2,Tamil,Zone-C-SemiUrban,Uneducated,0.234,0.328,0
+APP-1049,57,0,Telugu,Zone-C-SemiUrban,Uneducated,0.236,0.342,0
+APP-1050,86,3,English,Zone-A-Metro,Postgrad,0.012,0.666,1
+APP-1051,74,6,English,Zone-A-Metro,Postgrad,0.016,0.744,1
+APP-1052,91,5,English,Zone-B-Urban,Postgrad,0.016,0.796,1
+APP-1053,91,2,English,Zone-B-Urban,Undergrad,0.037,0.646,1
+APP-1054,63,0,English,Zone-C-SemiUrban,Uneducated,0.254,0.378,0
+APP-1055,82,5,English,Zone-A-Metro,Postgrad,0.024,0.742,1
+APP-1056,91,6,English,Zone-A-Metro,Undergrad,0.021,0.846,1
+APP-1057,57,0,English,Zone-C-SemiUrban,Uneducated,0.129,0.342,0
+APP-1058,49,0,Hindi,Zone-D-Remote,Primary School,0.295,0.294,0
+APP-1059,64,0,Hindi,Zone-D-Remote,Uneducated,0.191,0.384,0
+APP-1060,52,2,Hindi,Zone-C-SemiUrban,Uneducated,0.143,0.412,0
+APP-1061,76,2,English,Zone-A-Metro,Postgrad,0.016,0.556,1
+APP-1062,37,3,Marathi,Zone-D-Remote,Primary School,0.267,0.372,0
+APP-1063,73,6,English,Zone-B-Urban,Undergrad,0.018,0.738,1
+APP-1064,67,5,English,Zone-A-Metro,Postgrad,0.017,0.652,1
+APP-1065,60,0,Hindi,Zone-C-SemiUrban,Uneducated,0.284,0.360,0
+APP-1066,69,5,English,Zone-A-Metro,Postgrad,0.022,0.664,1
+APP-1067,89,3,English,Zone-B-Urban,Undergrad,0.024,0.684,1
+APP-1068,40,1,Hindi,Zone-C-SemiUrban,Uneducated,0.153,0.290,0
+APP-1069,89,4,English,Zone-A-Metro,Undergrad,0.027,0.734,1
+APP-1070,69,5,English,Zone-A-Metro,Undergrad,0.023,0.664,1
+APP-1071,72,3,Bengali,Zone-C-SemiUrban,Uneducated,0.208,0.582,1
+APP-1072,81,4,English,Zone-A-Metro,Undergrad,0.019,0.686,1
+APP-1073,74,5,English,Zone-A-Metro,Undergrad,0.016,0.694,1
+APP-1074,63,2,Bengali,Zone-C-SemiUrban,Primary School,0.203,0.478,0
+APP-1075,63,4,Marathi,Zone-C-SemiUrban,Uneducated,0.256,0.578,1
+APP-1076,46,0,Tamil,Zone-D-Remote,Primary School,0.215,0.276,0
+APP-1077,57,0,Marathi,Zone-C-SemiUrban,Uneducated,0.119,0.342,0
+APP-1078,73,4,English,Zone-A-Metro,Undergrad,0.028,0.638,1
+APP-1079,63,4,English,Zone-A-Metro,Undergrad,0.002,0.578,1
+APP-1080,78,2,English,Zone-A-Metro,Undergrad,0.016,0.568,1
+APP-1081,65,2,Hindi,Zone-D-Remote,Primary School,0.131,0.490,0
+APP-1082,91,6,English,Zone-A-Metro,Undergrad,0.036,0.846,1
+APP-1083,90,5,English,Zone-B-Urban,Postgrad,0.048,0.790,1
+APP-1084,69,0,Marathi,Zone-D-Remote,Uneducated,0.120,0.414,0
+APP-1085,44,3,Marathi,Zone-D-Remote,Primary School,0.261,0.414,0
+APP-1086,93,2,English,Zone-A-Metro,Undergrad,0.008,0.658,1
+APP-1087,63,3,English,Zone-A-Metro,Undergrad,0.020,0.528,0
+APP-1088,50,3,Telugu,Zone-D-Remote,Uneducated,0.275,0.450,0
+APP-1089,50,0,Bengali,Zone-D-Remote,Uneducated,0.105,0.300,0
+APP-1090,61,0,English,Zone-C-SemiUrban,Primary School,0.271,0.366,0
+APP-1091,83,6,English,Zone-B-Urban,Undergrad,0.016,0.798,1
+APP-1092,92,5,English,Zone-A-Metro,Undergrad,0.030,0.802,1
+APP-1093,41,1,Bengali,Zone-C-SemiUrban,Primary School,0.167,0.296,0
+APP-1094,62,3,English,Zone-C-SemiUrban,Primary School,0.100,0.522,0
+APP-1095,58,5,English,Zone-A-Metro,Undergrad,0.012,0.598,1
+APP-1096,90,2,English,Zone-A-Metro,Undergrad,0.025,0.640,1
+APP-1097,74,3,English,Zone-A-Metro,Undergrad,0.011,0.594,1
+APP-1098,90,2,English,Zone-A-Metro,Undergrad,0.045,0.640,1
+APP-1099,92,4,English,Zone-B-Urban,Undergrad,0.018,0.752,1
+APP-1100,52,2,Hindi,Zone-D-Remote,Primary School,0.160,0.412,0
